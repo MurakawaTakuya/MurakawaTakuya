@@ -1,3 +1,4 @@
+University student / Full Stuck Developer<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raraby&layout=compact" />
 
 <a href="https://wakatime.com/@4fc8088f-5a18-4f4b-99be-28a739b8cc1c">

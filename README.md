@@ -5,8 +5,8 @@ Working in the project of Nagoya City and Cabinet Secretariat<br>
 <h1>Skills</h1>
 Full Stuck Developer<br>
 Most Used: Java, C++, HTML, css, scss, Javascript, jQuery, Node.js, Git<br>
-Experienced: Python, SQL
-Currently learning Applied Information Technology Engineer Examination
+Experienced: Python, SQL<br>
+Currently learning Applied Information Technology Engineer Examination<br>
 
 <h1>Status</h1>
 <div>

@@ -15,8 +15,8 @@ Currently learning Applied Information Technology Engineer Examination<br>
   </a>
   (From August 30th 2023)
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raraby&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurakawaTakuya&layout=compact" />
 </div>
 <a href="https://github.com/Raraby/github-readme-stats">
-  <img align="center" height="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Raraby&layout=compact" />
+  <img align="center" height="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=@MurakawaTakuya&layout=compact" />
 </a>

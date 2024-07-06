@@ -44,18 +44,18 @@ University Student
 </ul>
 
 <h2>Status</h2>
-
-<div>
-  <a href="https://wakatime.com/@4fc8088f-5a18-4f4b-99be-28a739b8cc1c">
-    <img align="center" src="https://wakatime.com/badge/user/4fc8088f-5a18-4f4b-99be-28a739b8cc1c.svg" />
-  </a>
-  (From August 30th 2023)
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurakawaTakuya&layout=compact" />
-</div>
+<a href="https://wakatime.com/@4fc8088f-5a18-4f4b-99be-28a739b8cc1c">
+  <img align="center" src="https://wakatime.com/badge/user/4fc8088f-5a18-4f4b-99be-28a739b8cc1c.svg" />
+</a>
+(From August 30th 2023)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurakawaTakuya&layout=compact" />
 <a href="https://github.com/Raraby/github-readme-stats">
   <img align="center" height="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=@MurakawaTakuya&layout=compact" />
 </a>
+<br><br>
+<a href="https://github.com/iwbc-mzk/atcoder-readme-stats">
+  <img src="https://atcoder-readme-stats.vercel.app/stats/RarabyBye?show_history=5&width=300" alt="RarabyBye's atcoder stats" />
+</a>
 
 
-[![RarabyBye's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/RarabyBye?show_history=5&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+

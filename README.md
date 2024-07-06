@@ -1,13 +1,24 @@
 University Student
 
 <h2>Skills</h2>
-<ul>
-  <li>Full Stuck Developer</li>
-  <li>Well experiensed: Java, C, C++, Python, HTML, css, scss, Javascript, jQuery, Node.js, Git, Firebase</li>
-  <li>Experienced/Learning: React, Typescript, SQL, Ruby, Ruby on Rails</li>
-</ul>
+<p>Frontend</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,jquery" />
+</a>
+<p>Backend</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,ruby" />
+</a>
+<p>Languages</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
+</a>
+<p>Skills</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,firebase,gcp,postman,vscode,clion,eclipse,atom" />
+</a>
 
-<h2>Past Releases</h2>
+<h2>Past Public Releases</h2>
 <ul>
   <li>
     <a href="https://koudaisai.com/61st/">第61回 工大祭</a>
@@ -33,6 +44,7 @@ University Student
 </ul>
 
 <h2>Status</h2>
+
 <div>
   <a href="https://wakatime.com/@4fc8088f-5a18-4f4b-99be-28a739b8cc1c">
     <img align="center" src="https://wakatime.com/badge/user/4fc8088f-5a18-4f4b-99be-28a739b8cc1c.svg" />

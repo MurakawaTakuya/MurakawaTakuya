@@ -1,9 +1,9 @@
-University Student
+University Student / Full Stack Developer
 
 <h2>Skills</h2>
 <p>Frontend</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,jquery" />
 </a>
 <p>Backend</p>
 <a href="https://skillicons.dev">
@@ -28,7 +28,7 @@ University Student
     </ul>
   </li>
 <!--   <li>
-    <a href="https://heatstroke.jp/">熱中症予測サイト</a>
+    <a href="https://heatstroke.jp/">熱中症搬送者数予測サイト</a>
     <ul>
       <li>Frontend(Designs, Graph using Apexcharts)</li>
       <li>Backend(API, Calculating estimations)</li>

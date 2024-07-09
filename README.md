@@ -1,4 +1,5 @@
-University Student / Full Stack Developer
+University Student / Full Stack Developer<br>
+Contact me through murakawatakuya5[at]gmail.com
 
 <h2>Skills</h2>
 <p>Frontend</p>
@@ -27,13 +28,13 @@ University Student / Full Stack Developer
       <li>Renewal</li>
     </ul>
   </li>
-<!--   <li>
+  <li>
     <a href="https://heatstroke.jp/">熱中症搬送者数予測サイト</a>
     <ul>
       <li>Frontend(Designs, Graph using Apexcharts)</li>
       <li>Backend(API, Calculating estimations)</li>
     </ul>
-  </li> -->
+  </li>
 </ul>
 
 <h2>Qualifications</h2>
@@ -56,6 +57,5 @@ University Student / Full Stack Developer
 <a href="https://github.com/iwbc-mzk/atcoder-readme-stats">
   <img src="https://atcoder-readme-stats.vercel.app/stats/RarabyBye?show_history=5&width=300" alt="RarabyBye's atcoder stats" />
 </a>
-
-
-
+<br>
+<a href="https://icpc.iisf.or.jp/2024-yokohama/domestic/icpc-2024-result/">ICPC 2024 国内予選</a>:  94th orderOne

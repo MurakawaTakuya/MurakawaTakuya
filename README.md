@@ -1,5 +1,4 @@
-University Student / Full Stack Developer<br>
-Contact me through murakawatakuya5[at]gmail.com
+University Student / Full Stack Developer
 
 <h2>Skills</h2>
 <p>Frontend</p>

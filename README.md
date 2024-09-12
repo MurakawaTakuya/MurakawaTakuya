@@ -42,7 +42,7 @@ University Student / Full Stack Developer
 <h2>Qualifications</h2>
 <ul>
   <li>Applied Information Technology Engineer Examination (応用情報技術者試験)</li>
-  <li>TOEIC score: 865</li>
+  <li>TOEIC score: 875</li>
   <li>English Proficiency Exam: Pre-1st grade</li>
 </ul>
 

@@ -35,7 +35,10 @@ University Student / Full Stack Developer
     </ul>
   </li>
   <li>
-    Intern in <a href="https://qiita.com/">Qiita</a>: 2024/6 ~ 2024/7
+    Internship in <a href="https://qiita.com/">Qiita</a>: 2024/6 ~ 2024/7 (1.5 month)
+  </li>
+  <li>
+    Internship in <a href="https://www.cosme.com/">Istyle - @cosme SHOPPING</a>: 2024/9 (1 month)
   </li>
 </ul>
 

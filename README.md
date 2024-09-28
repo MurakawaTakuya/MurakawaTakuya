@@ -3,15 +3,15 @@ University Student / Full Stack Developer
 <h2>Skills</h2>
 <p>Frontend</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,next,jquery" />
 </a>
 <p>Backend</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,ruby" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ruby,spring,php" />
 </a>
-<p>Languages</p>
+<p>Other Languages</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,mysql" />
 </a>
 <p>Skills</p>
 <a href="https://skillicons.dev">
@@ -30,7 +30,7 @@ University Student / Full Stack Developer
   <li>
     <a href="https://heatstroke.jp/">熱中症搬送者数予測サイト</a>: 2023/12 ~ now
     <ul>
-      <li>Frontend(Designs, Graph using Apexcharts)</li>
+      <li>Frontend(Designs, Graphs using Apexcharts)</li>
       <li>Backend(API, Calculating estimations)</li>
     </ul>
   </li>

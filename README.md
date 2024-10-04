@@ -18,7 +18,7 @@ University Student / Full Stack Developer
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,firebase,gcp,postman,opencv,vscode,clion,eclipse,atom" />
 </a>
 
-<h2>Past Public Releases / Career</h2>
+<h2>Past Public Releases / Career / Contests</h2>
 <ul>
   <li>
     <a href="https://koudaisai.com/61st/">第61回 工大祭</a>: 2022/1 ~ 2023/12
@@ -38,6 +38,9 @@ University Student / Full Stack Developer
     Internship in <a href="https://qiita.com/">Qiita</a>: 2024/6 ~ 2024/7 (1.5 month)
   </li>
   <li>
+    ICPC(国際大学対抗プログラミングコンテスト) 2024 国内予選 - <a href="https://icpc.iisf.or.jp/2024-yokohama/domestic/icpc-2024-result/">orderOne</a>: 94th, 1st in my University
+  </li>
+  <li>
     Internship in <a href="https://www.cosme.com/">Istyle - @cosme SHOPPING</a>: 2024/9 (1 month)
   </li>
 </ul>
@@ -54,7 +57,7 @@ University Student / Full Stack Developer
 <a href="https://wakatime.com/@MurakawaTakuya">
   <img align="center" src="https://wakatime.com/badge/user/4fc8088f-5a18-4f4b-99be-28a739b8cc1c.svg" />
 </a>
-(From August 30th 2023)
+(Since August 30th 2023)
 <br>
 <a href="https://wakatime.com/@MurakawaTakuya">
   <img align="center" height="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=@MurakawaTakuya&layout=compact" />
@@ -64,4 +67,3 @@ University Student / Full Stack Developer
   <img src="https://atcoder-readme-stats.vercel.app/stats/RarabyBye?show_history=5&width=300" alt="RarabyBye's atcoder stats" />
 </a>
 <br>
-<a href="https://icpc.iisf.or.jp/2024-yokohama/domestic/icpc-2024-result/">ICPC 2024 国内予選</a>:  94th orderOne

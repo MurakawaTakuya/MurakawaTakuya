@@ -47,8 +47,9 @@ University Student / Full Stack Developer
     第62回 工大祭(WIP): 2024/9 ~ 2024/11
     <ul>
       <li>Team Leader</li>
-      <li>Transitioning from HTML/css/js to Next.js/scss</li>
-      <li>Other new features and better development environment based on 61st project</li>
+      <li>Transitioning from HTML/css/Javascript to Next.js/scss/Typescript</li>
+      <li>Other new features based on 61st project</li>
+      <li>Better development environment introducing GitHub, CI with Github Actions, Typescript, etc...</li>
     </ul>
   </li>
 </ul>

@@ -1,6 +1,6 @@
 University Student / Full Stack Developer
 
-<h2>Skills</h2>
+<h2>Languages / Skills</h2>
 <p>Frontend</p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,next,jquery" />
@@ -42,6 +42,14 @@ University Student / Full Stack Developer
   </li>
   <li>
     Internship in <a href="https://www.cosme.com/">Istyle - @cosme SHOPPING</a>: 2024/9 (1 month)
+  </li>
+  <li>
+    第62回 工大祭(WIP): 2024/9 ~ 2024/11
+    <ul>
+      <li>Team Leader</li>
+      <li>Transitioning from HTML/css/js to Next.js/scss</li>
+      <li>Other new features and better development environment based on 61st project</li>
+    </ul>
   </li>
 </ul>
 

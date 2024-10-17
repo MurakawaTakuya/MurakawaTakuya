@@ -3,15 +3,15 @@ University Student / Full Stack Developer
 <h2>Languages / Skills</h2>
 <p>Frontend</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,next,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,next,jquery,materialui" />
 </a>
 <p>Backend</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,ruby,spring,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ruby,spring,php,postgres,mysql" />
 </a>
 <p>Other Languages</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
 </a>
 <p>Skills</p>
 <a href="https://skillicons.dev">

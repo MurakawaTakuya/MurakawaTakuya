@@ -75,4 +75,6 @@ University Student / Full Stack Developer
 <a href="https://atcoder.jp/users/RarabyBye">
   <img src="https://atcoder-readme-stats.vercel.app/stats/RarabyBye?show_history=5&width=300" alt="RarabyBye's atcoder stats" />
 </a>
-<br>
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Murakawa_Takuya/posts.svg)](http://qiita.com/Murakawa_Takuya)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Murakawa_Takuya/contributions.svg)](http://qiita.com/Murakawa_Takuya)

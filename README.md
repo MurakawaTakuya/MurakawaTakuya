@@ -44,13 +44,11 @@ University Student / Full Stack Developer
     Internship in <a href="https://www.cosme.com/">Istyle - @cosme SHOPPING</a>: 2024/9 (1 month)
   </li>
   <li>
-    第62回 工大祭(WIP): 2024/9 ~ 2024/11
+    <a href="https://koudaisai.com/">第62回 工大祭</a>: 2024/9 ~ 2024/11
     <ul>
-      <li>Team Leader</li>
-      <li>Transitioning from HTML/css/Javascript to Next.js/scss/Typescript</li>
-      <li>Other new features based on 61st project</li>
-      <li>Better development environment introducing GitHub, CI with Github Actions, Typescript, etc...</li>
+      <li>See <a href="https://www.koudaisai.com/whats-new/">what's changed</a></li>
     </ul>
+    
   </li>
 </ul>
 

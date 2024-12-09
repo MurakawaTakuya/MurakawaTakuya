@@ -48,7 +48,9 @@ University Student / Full Stack Developer
     <ul>
       <li>See <a href="https://www.koudaisai.com/whats-new/">what's changed</a></li>
     </ul>
-    
+  </li>
+  <li>
+    <a href="https://github.com/jphacks/ng_2408">JPHACKS 2024</a>
   </li>
 </ul>
 

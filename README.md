@@ -56,9 +56,9 @@ University Student / Full Stack Developer
 
 <h2>Qualifications</h2>
 <ul>
-  <li>Applied Information Technology Engineer Examination (応用情報技術者試験)</li>
-  <li>TOEIC score: 875</li>
-  <li>English Proficiency Exam: Pre-1st grade</li>
+  <li>Applied Information Technology Engineer Examination (応用情報技術者試験) (April 2024)</li>
+  <li>TOEIC score: 875 (August 2024)</li>
+  <li>English Proficiency Exam: Pre-1st grade(November 2020)</li>
 </ul>
 
 <h2>Status</h2>

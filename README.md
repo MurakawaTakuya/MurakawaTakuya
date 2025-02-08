@@ -19,7 +19,7 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
 </a>
 <p>Skills</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,firebase,gcp,postman,opencv,vscode,clion,eclipse,atom" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,firebase,gcp,docker,postman,opencv,vscode,clion,eclipse,atom" />
 </a>
 
 <h2>Past Public Releases / Career / Contests</h2>

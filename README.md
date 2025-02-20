@@ -51,9 +51,9 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
     Internship in <a href="https://www.cosme.com/">Istyle - @cosme SHOPPING</a>: 2024/9 (1 month)
   </li>
   <li>
-    <a href="https://koudaisai.com/">第62回 工大祭</a>: 2024/9 ~ 2024/11
+    <a href="https://62nd.koudaisai.com/">第62回 工大祭</a>: 2024/9 ~ 2024/11
     <ul>
-      <li>See <a href="https://www.koudaisai.com/whats-new/">what's changed</a></li>
+      <li>See <a href="https://62nd.koudaisai.com/whats-new/">What's changed</a></li>
     </ul>
   </li>
   <li>

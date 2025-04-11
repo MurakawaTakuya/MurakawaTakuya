@@ -71,6 +71,10 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
       <li>Cloud: Google Cloud, Firebase</li>
     </ul>
   </li>
+  <li>
+    exchange program at <a href="https://eng.efrei.fr/">EFREI Paris</a>: 2025/2 ~ 2025/3
+  </li>
+  
 </ul>
 
 <h2>Qualifications</h2>

@@ -7,19 +7,19 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
 <h2>Languages / Skills</h2>
 <p>Frontend</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,next,jquery,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,next,vue" />
 </a>
 <p>Backend</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,ruby,spring,php,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,php,postgres,mysql" />
 </a>
 <p>Other Languages</p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
 </a>
-<p>Skills</p>
+<p>Infrastructure</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,firebase,gcp,docker,postman,opencv,vscode,clion,eclipse,atom" />
+  <img src="https://skillicons.dev/icons?i=githubactions,vercel,supabase,firebase,gcp" />
 </a>
 
 <h2>Past Public Releases / Career / Contests</h2>

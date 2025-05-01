@@ -7,7 +7,7 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
 <h2>Languages / Skills</h2>
 <p>Frontend</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,next,vue" />
+  <img src="https://skillicons.dev/icons?i=react,next,js,ts,vue,scss" />
 </a>
 <p>Backend</p>
 <a href="https://skillicons.dev">
@@ -39,7 +39,7 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
     </ul>
   </li>
   <li>
-    Internship in <a href="https://qiita.com/">Qiita</a>: 2024/6 ~ 2024/7 (1.5 month)
+    Internship in <a href="https://qiita.com/">Ateam - Qiita</a>: 2024/6 ~ 2024/7
   </li>
   <li>
     ICPC(国際大学対抗プログラミングコンテスト) 2024 国内予選
@@ -48,19 +48,17 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
     </ul>
   </li>
   <li>
-    Internship in <a href="https://www.cosme.com/">Istyle - @cosme SHOPPING</a>: 2024/9 (1 month)
+    Internship in <a href="https://www.cosme.com/">Istyle - @cosme SHOPPING</a>: 2024/9
   </li>
   <li>
     <a href="https://62nd.koudaisai.com/">第62回 工大祭</a>: 2024/9 ~ 2024/11
     <ul>
+      <li>React, Next.js, TypeScript, CSS modules, CI/CD</li>
       <li>See <a href="https://62nd.koudaisai.com/whats-new/">What's changed</a></li>
     </ul>
   </li>
   <li>
-    JPHACKS 2024
-    <ul>
-      <li><a href="https://github.com/jphacks/ng_2408">What's up!</a></li>
-    </ul>
+    JPHACKS 2024: <a href="https://github.com/jphacks/ng_2408">What's up!</a>
   </li>
   <li>
     <a href="https://github.com/MurakawaTakuya/todo-real">TODO REAL</a>: 2024/11 ~ 2025/1
@@ -68,11 +66,21 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
       <li>Sharable todo-list application</li>
       <li>Frontend: TypeScript, Next.js</li>
       <li>Backend: TypeScript, Node.js</li>
-      <li>Cloud: Google Cloud, Firebase</li>
+      <li>Server: Google Cloud, Firebase</li>
     </ul>
   </li>
   <li>
     exchange program at <a href="https://eng.efrei.fr/">EFREI Paris</a>: 2025/2 ~ 2025/3
+    <ul>
+      <li>French Language</li>
+      <li>
+        Web Development: <a href="https://github.com/MurakawaTakuya/Global-Recipe-Sharing-Platform">Global Recipe Sharing Platform</a>
+      <ul>
+        <li>Vue.js, Supabase, PostgreSQL</li>
+      </ul>
+      </li>
+      <li>Project Management</li>
+    </ul>
   </li>
   
 </ul>
@@ -88,7 +96,7 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
 <a href="https://wakatime.com/@MurakawaTakuya">
   <img align="center" src="https://wakatime.com/badge/user/4fc8088f-5a18-4f4b-99be-28a739b8cc1c.svg" />
 </a>
-(Since August 30th 2023)
+(Since August 29th 2023)
 <br>
 <a href="https://wakatime.com/@MurakawaTakuya">
   <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=@MurakawaTakuya&layout=compact" />

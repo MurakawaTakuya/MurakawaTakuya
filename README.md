@@ -70,7 +70,7 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
     </ul>
   </li>
   <li>
-    exchange program at <a href="https://eng.efrei.fr/">EFREI Paris</a>: 2025/2 ~ 2025/3
+    exchange program at <a href="https://eng.efrei.fr/">EFREI Paris</a> in France: 2025/2 ~ 2025/3
     <ul>
       <li>French Language</li>
       <li>

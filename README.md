@@ -35,7 +35,7 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
     <a href="https://heatstroke.jp/">熱中症搬送者数予測サイト</a>: 2023/12 ~ now
     <ul>
       <li>Frontend(Designs, Graphs using Apexcharts)</li>
-      <li>Backend(API, Calculating estimations)</li>
+      <li>Backend(Firebase, Calculating estimations)</li>
     </ul>
   </li>
   <li>

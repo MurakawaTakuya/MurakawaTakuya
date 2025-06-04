@@ -1,8 +1,8 @@
 University Student / Full Stack Developer
 
 Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)  
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/Murakawa_Takuya/posts.svg)](http://qiita.com/Murakawa_Takuya)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Murakawa_Takuya/contributions.svg)](http://qiita.com/Murakawa_Takuya)
+[![Contributions](https://badgen.org/img/qiita/Murakawa_Takuya/contributions?style=social)](https://qiita.com/Murakawa_Takuya)
+[![Articles](https://badgen.org/img/qiita/Murakawa_Takuya/articles?style=social)](https://qiita.com/Murakawa_Takuya)
 
 <h2>Languages / Skills</h2>
 <p>Frontend</p>
@@ -88,7 +88,7 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
 <h2>Qualifications</h2>
 <ul>
   <li>Applied Information Technology Engineer Examination (応用情報技術者試験) (April 2024)</li>
-  <li>TOEIC score: 875 (August 2024)</li>
+  <li>TOEIC score: 895 (May 2025)</li>
   <li>English Proficiency Exam: Pre-1st grade (November 2020)</li>
 </ul>
 

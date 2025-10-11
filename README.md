@@ -21,8 +21,10 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=githubactions,vercel,supabase,firebase,gcp" />
 </a>
+<!-- Machine Learning -->
 
-<h2>Past Public Releases / Career / Contests</h2>
+<!-- 過去の英論文紹介のスライドも載せる -->
+<h2>Past Public Releases / Career / Contests / Conferences</h2>
 <ul>
   <li>
     <a href="https://koudaisai.com/61st/">第61回 工大祭</a>: 2022/1 ~ 2023/12
@@ -32,7 +34,7 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
     </ul>
   </li>
   <li>
-    <a href="https://heatstroke.jp/">熱中症搬送者数予測サイト</a>: 2023/12 ~ now
+    <a href="https://heatstroke.jp/">熱中症搬送者数予測サイト</a>: 2023/12 ~2025/7
     <ul>
       <li>Frontend(Designs, Graphs using Apexcharts)</li>
       <li>Backend(Firebase, Calculating estimations)</li>
@@ -66,7 +68,7 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
       <li>Sharable todo-list application</li>
       <li>Frontend: TypeScript, Next.js</li>
       <li>Backend: TypeScript, Node.js</li>
-      <li>Server: Google Cloud, Firebase</li>
+      <li>Infrastructure: Google Cloud, Firebase</li>
     </ul>
   </li>
   <li>
@@ -82,7 +84,7 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
       <li>Project Management</li>
     </ul>
   </li>
-  
+  <li>MIRU 2025</li>
 </ul>
 
 <h2>Qualifications</h2>

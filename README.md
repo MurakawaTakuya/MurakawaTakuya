@@ -34,7 +34,7 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
     </ul>
   </li>
   <li>
-    <a href="https://heatstroke.jp/">熱中症搬送者数予測サイト</a>: 2023/12 ~2025/7
+    <a href="https://heatstroke.jp/">熱中症搬送者数予測サイト</a>: 2023/12 ~ 2025/7
     <ul>
       <li>Frontend(Designs, Graphs using Apexcharts)</li>
       <li>Backend(Firebase, Calculating estimations)</li>
@@ -84,7 +84,10 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
       <li>Project Management</li>
     </ul>
   </li>
-  <li>MIRU 2025</li>
+  <li>
+    Internship in <a href="https://www.innovation.co.jp/">Innovaion</a>: 2024/7 ~ now
+  </li>
+  <li><a href="https://cvim.ipsj.or.jp/MIRU2025/">画像の認識・理解シンポジウム MIRU 2025</a></li>
 </ul>
 
 <h2>Qualifications</h2>

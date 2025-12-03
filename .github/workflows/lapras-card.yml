@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
-          SHARE_ID: <YOUR_SHARE_ID>
+          SHARE_ID: MurakawaTakuya
           ICON_FIRST: "#030E21"
           ICON_SECOND: "#1688BF"
           BACKGROUND_FIRST: "#0b233c"

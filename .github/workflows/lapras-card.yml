@@ -26,7 +26,7 @@ jobs:
           # BACKGROUND_SECOND: "#0E5593"
           # LANG: "ja"
           # CARD_WIDTH: "400"
-          # UPDATE_TIME: "true"
+          UPDATE_TIME: "false"
           # README_FILE: "README.md"
           # IS_CENTER: "true"
           # ALTERNATIVE_TEXT: "Score of {SHARE_ID} on LAPRAS"

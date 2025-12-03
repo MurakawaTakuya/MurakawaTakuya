@@ -110,3 +110,6 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
 <a href="https://atcoder.jp/users/RarabyBye">
   <img width="350" src="https://atcoder-readme-stats.vercel.app/stats/RarabyBye?show_history=15" alt="RarabyBye's atcoder stats" />
 </a>
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->

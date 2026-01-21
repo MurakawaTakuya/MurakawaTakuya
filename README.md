@@ -90,6 +90,15 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
     Internship in <a href="https://www.innovation.co.jp/">Innovaion</a>: 2024/7 ~ now
   </li>
   <li><a href="https://cvim.ipsj.or.jp/MIRU2025/">画像の認識・理解シンポジウム MIRU 2025</a></li>
+  <li>
+    <a href="https://iwait.online/">IWAIT 2026</a>
+    <ul>
+      <li><a href="https://www.arxiv.org/abs/2601.11048">arXiv</a></li>
+      <li><a href="https://github.com/tamaki-lab/M3DDM-Plus">GitHub</a></li>
+      <li><a href="https://huggingface.co/MurakawaTakuya/M3DDM-Plus">Hugging Face</a></li>
+      <li><a href="https://note.com/murakawatakuya/n/nbcf1c65176c6">Note(参加記録)</a></li>
+    </ul>
+  </li>
 </ul>
 
 <h2>Qualifications</h2>

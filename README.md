@@ -29,7 +29,7 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
 <h2>Past Public Releases / Career / Contests / Conferences</h2>
 <ul>
   <li>
-    <a href="https://koudaisai.com/61st/">第61回 工大祭</a>: 2022/1 ~ 2023/12
+    <a href="https://koudaisai.com/61st/">第61回 工大祭</a>: 2023/1 ~ 2023/12
     <ul>
       <li>Frontend</li>
       <li>Renewal</li>
@@ -55,7 +55,7 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
     Internship in <a href="https://www.cosme.com/">Istyle - @cosme SHOPPING</a>: 2024/9
   </li>
   <li>
-    <a href="https://62nd.koudaisai.com/">第62回 工大祭</a>: 2024/9 ~ 2024/11
+    <a href="https://62nd.koudaisai.com/">第62回 工大祭</a>: 2024/1 ~ 2024/11
     <ul>
       <li>React, Next.js, TypeScript, CSS modules, CI/CD</li>
       <li>See <a href="https://62nd.koudaisai.com/whats-new/">What's changed</a></li>

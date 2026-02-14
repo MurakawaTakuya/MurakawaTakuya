@@ -1,4 +1,4 @@
-University Student / Full Stack Developer / Computer Vision Research
+University Student / Full Stack Developer / Computer Vision Researcher
 
 Portfolio: https://murakawatakuya.vercel.app/
 

@@ -101,6 +101,13 @@ Zenn: [Murakawa Takuya](https://zenn.dev/murakawatakuya)
       <li><a href="https://note.com/murakawatakuya/n/nbcf1c65176c6">Note(参加記録)</a></li>
     </ul>
   </li>
+  <li>
+    第4回 Agentic AI Hackathon with Google Cloud: <a href="https://paper-agent-jhfqsr32ja-an.a.run.app/">RAPID Agent</a>
+    <ul>
+      <li><a href="https://zenn.dev/murakawatakuya/articles/8a621a8c56aacb">Zenn</a></li>
+      <li><a href="https://github.com/MurakawaTakuya/RAPID-Agent">GitHub</a></li>
+    </ul>
+  </li>
 </ul>
 
 <h2>Qualifications</h2>

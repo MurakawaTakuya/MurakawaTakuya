@@ -6,6 +6,8 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
 [![Contributions](https://badgen.org/img/qiita/Murakawa_Takuya/contributions?style=social)](https://qiita.com/Murakawa_Takuya)
 [![Articles](https://badgen.org/img/qiita/Murakawa_Takuya/articles?style=social)](https://qiita.com/Murakawa_Takuya)
 
+Zenn: [Murakawa Takuya](https://zenn.dev/murakawatakuya)
+
 <h2>Languages / Skills</h2>
 <p>Frontend</p>
 <a href="https://skillicons.dev">
@@ -114,10 +116,10 @@ Qiita: [@Murakawa_Takuya](https://qiita.com/Murakawa_Takuya)
 </a>
 (Since August 29th 2023)
 <br>
-<a href="https://wakatime.com/@MurakawaTakuya">
+<!-- <a href="https://wakatime.com/@MurakawaTakuya">
   <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=@MurakawaTakuya&layout=compact" />
-</a>
-<img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurakawaTakuya&layout=compact" />
+</a> -->
+<!-- <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurakawaTakuya&layout=compact" /> -->
 <a href="https://atcoder.jp/users/RarabyBye">
   <img width="350" src="https://atcoder-readme-stats.vercel.app/stats/RarabyBye?show_history=15" alt="RarabyBye's atcoder stats" />
 </a>

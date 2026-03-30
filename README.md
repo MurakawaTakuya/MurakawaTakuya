@@ -102,10 +102,18 @@ Zenn: [Murakawa Takuya](https://zenn.dev/murakawatakuya)
     </ul>
   </li>
   <li>
-    第4回 Agentic AI Hackathon with Google Cloud: <a href="https://paper-agent-jhfqsr32ja-an.a.run.app/">RAPID Agent</a>
+    <a href="https://zenn.dev/hackathons/google-cloud-japan-ai-hackathon-vol4">第4回 Agentic AI Hackathon with Google Cloud</a>
     <ul>
+      <li><a href="https://paper-agent-jhfqsr32ja-an.a.run.app/">RAPID Agent</a></li>
       <li><a href="https://zenn.dev/murakawatakuya/articles/8a621a8c56aacb">Zenn</a></li>
       <li><a href="https://github.com/MurakawaTakuya/RAPID-Agent">GitHub</a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="https://gdsc-jp.connpass.com/event/378883/">Google Developer Groups on Campus Japan Hackathon 2026: AI賞 受賞</a>
+    <ul>
+      <li><a href="https://git-push-pray-frontend-924883321729.asia-northeast1.run.app/">パピる</a></li>
+      <li><a href="https://github.com/GDGoC-Japan-Hackathon/git-push-pray">GitHub</a></li>
     </ul>
   </li>
 </ul>

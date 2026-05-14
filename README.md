@@ -140,5 +140,5 @@ Zenn: [Murakawa Takuya](https://zenn.dev/murakawatakuya)
 </a>
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/MurakawaTakuya" target="_blank" rel="noopener noreferrer"><img alt="MurakawaTakuyaのLAPRASでのスコアは次の通りです: エンジニアリング: 3.68 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.4 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.68&b=3.48&i=3.4&b1=%230b233c&b2=%23054f8f&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a></p>
+<p ><a href="https://lapras.com/public/MurakawaTakuya" target="_blank" rel="noopener noreferrer"><img alt="MurakawaTakuyaのLAPRASでのスコアは次の通りです: エンジニアリング: 3.69 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.39 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.69&b=3.48&i=3.39&b1=%230b233c&b2=%23054f8f&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
